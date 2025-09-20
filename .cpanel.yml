@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/mdevcom1/public_html/laravelut/
-    - /bin/cp -R laravelut/* $DEPLOYPATH
